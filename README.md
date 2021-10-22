@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ibrahim-sm
+- 👋 Hi, I’m Ibrahim
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C#, .NET Core
 - 📫 ibrahim.cs@outlook.com
